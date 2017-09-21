@@ -130,4 +130,5 @@ for the modern web development stack.|JavaScript| MIT |
 
 Name  | About  | Supported Languages | License
 :------------ |:---------------| :----- | :-----------
+|[DeckTape](https://github.com/astefanutti/decktape) | Automated PDF exporter for HTML presentation frameworks with PhantomJS|JavaScript| MIT |
 |[browser-launcher](https://github.com/substack/browser-launcher) | Detect and launch browser versions, headlessly or otherwise|JavaScript| MIT |
